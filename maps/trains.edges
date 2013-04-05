@@ -1,0 +1,12 @@
+{
+    "mapedgeinfo": [
+					{"from":"Saarbruecken","to":"Kaiserslauten","cost":70},
+					{"from":"Saarbruecken","to":"Karlsruhe","cost":145},
+					{"from":"Kaiserslauten","to":"Frankfurt","cost":103},
+					{"from":"Kaiserslauten","to":"Ludwigshafen","cost":53},
+					{"from":"Karlsruhe","to":"Heilbronn","cost":84},
+					{"from":"Frankfurt","to":"Wuerzburg","cost":116},
+					{"from":"Ludwigshafen","to":"Wuerzburg","cost":183},
+					{"from":"Heilbronn","to":"Wuerzburg","cost":102}
+                  ]   
+}

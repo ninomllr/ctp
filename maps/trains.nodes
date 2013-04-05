@@ -1,0 +1,12 @@
+{
+    "mapnodeinfo": [
+					{"id":"Saarbruecken","x":100,"y":122,"startpoint":true,"endpoint":false},
+					{"id":"Kaiserslauten","x":94,"y":64,"startpoint":false,"endpoint":false},
+					{"id":"Frankfurt","x":40,"y":56,"startpoint":false,"endpoint":false},
+					{"id":"Wuerzburg","x":0,"y":0,"startpoint":false,"endpoint":true},
+					{"id":"Ludwigshafen","x":50,"y":58,"startpoint":false,"endpoint":false},
+					{"id":"Karlsruhe","x":40,"y":100,"startpoint":false,"endpoint":false},
+					{"id":"Heilbronn","x":25,"y":62,"startpoint":false,"endpoint":false}
+                  ]   
+}
+
